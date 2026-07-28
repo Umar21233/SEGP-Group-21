@@ -4,6 +4,10 @@ An intelligent IoT monitoring and automation platform for commercial microalgae 
 
 **Group 21 · COMP2019 · University of Nottingham Malaysia**
 
+**Live demo:** https://microalgae-growth-automation.vercel.app
+
+> **Demo credentials** — Email: `manager@algae.com` · Password: `manager123`
+
 ---
 
 ## What This Is
